@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 
-This repository contains an implementation of a Convolutional Neural Network (CNN) for image classification of Ciphor-10 and Fashion_MNIST using TensorFlow and Keras .
+This repository contains an implementation of a Convolutional Neural Network (CNN) for image classification of Cipfor-10 and Fashion_MNIST using TensorFlow and Keras .
 
 ## 📌 Features
 - Implementation of CNN from scratch using TensorFlow/Keras.
