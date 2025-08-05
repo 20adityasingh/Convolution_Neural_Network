@@ -13,5 +13,5 @@ This repository contains an implementation of a Convolutional Neural Network (CN
 - Model prediction on test images.
 
 ## 🔥 Results & Performance
-- Accuracy and loss plots will be saved during training.
+- Accuracy and loss plot will be saved during training.
 - Classification report and confusion matrix can be generated.
